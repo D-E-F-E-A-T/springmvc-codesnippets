@@ -6,6 +6,6 @@
 
 **DecoupledLogicSetup.java**: Enables the Thymeleaf Decoupled Template Logic feature.
 
-**Logback-spring.xml**: Some custom logback configurations.
+**logback-spring.xml**: Some custom logback configurations.
 
 **WebConfig.java**: Sets a view template as your homepage.
